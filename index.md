@@ -3,9 +3,9 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# Music, Sound, & the Digital Humanities
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="old-tech.jpg" alt="intro image here" caption="Photo by Felipe Belluco on Unsplash" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
