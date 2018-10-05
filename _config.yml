@@ -1,32 +1,36 @@
-# Jekyll workshop-template-b evanwill
-# https://github.com/evanwill/workshop-template-b
+# Jekyll dh-music owikle
+# https://owikle.github.io/dh-music/
 
 # Notes: 
 # - pages with "nav: true" in front matter will be in header nav
 # - figure include for centered images, put file in images directory and use: {% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - digital-music.jpg credit: Photo by rawpixel on Unsplash
+# - tape-player.jpg credit: Photo by Simone Acquaroli (https://unsplash.com/photos/CrnPTz6f-tE) on Unsplash
+# - old-tech.jpg Photo by <a href="https://unsplash.com/photos/knLF451wd8s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Felipe Belluco</a> on Unsplash
+# - boy-microphone.jpg Photo by Jason Rosewell on Unsplash https://unsplash.com/photos/ASKeuOZqhYU
 
 # Site settings
 # title appears in the header
-title: workshop-template-b
+title: Music, Sound, & DH
 # description and keywords for meta tags
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
+description: "description here"
+keywords: "digital humanities, music, sound"
 
 # author settings for cc-by, appears in the footer
-author: evan will
+author: olivia wikle
 pub_year: 2018
-github_username: evanwill
+github_username: owikle
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template-b"
+repo: "https://github.com/owikle/dh-music"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+url: https://owikle.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template-b
+baseurl: /dh-music
 
 # add search box to footer?
 search: true
