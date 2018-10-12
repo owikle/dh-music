@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Extra
 nav: true
 ---
 

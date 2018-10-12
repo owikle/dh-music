@@ -3,7 +3,21 @@ title: Intro
 nav: true
 --- 
 
-# Workshop Prep
+# Defining Digital Humanities
+
+There is a lack of consensus when it comes to a set definition for the Digital Humanities (DH). However, many agree that digital humanities research requires incorporating technology to ask traditional humanities questions in new ways and about new subjects.
+
+# Digital Humanities *Is*:
+- **Computational**:
+    - Involving data of some sort (though this data takes many forms)
+- **Diverse**:
+    - Accross institutions, DH operates in different ways
+- **Collaborative**:
+    - Research often involves a community that crosses disciplinary lines to exchange ideas and build projects
+
+# Digital Humanities *Is Not*:
+- A "replacement" of traditional humanities research methods
+    - Rather, DH works hand-in-hand to extend the possibilities of deep thinking and criticism that characterizes the humanities, and the creativity that embodies the arts
 
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
 Basic familiarity with the GitHub web interface will be helpful.

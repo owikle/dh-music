@@ -1,9 +1,19 @@
 ---
-title: Intro
+title: Collections
 nav: true
 ---
 
-# Introduction
+# Digital Collections at the University of Idaho
+
+The digitization we do here goes hand-in-hand with our digital scholarship roles.
+
+We *preserve* and *disseminate* archival material
+
+
+
+
+
+
 
 One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/){:target='_blank'}.
 It provides free static web hosting from any repository.

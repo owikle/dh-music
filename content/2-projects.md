@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Projects
 nav: true
 ---
 

@@ -1,9 +1,11 @@
 ---
-title: Content
+title: Resources
 nav: true
 ---
 
-# Create Lesson Content
+# Resources
+
+- [Programming Historian](http://programminghistorian.org/)
 
 Edit the lesson Markdown files to create content pages.
 
