@@ -3,7 +3,30 @@ title: Projects
 nav: true
 ---
 
-# Get Started
+# Music DH Projects
+
+## Categories: Encoding, Visualization
+
+[Virtual St. Paul's Cathedral Project](https://vpcp.chass.ncsu.edu/)
+[Historical Soundscapes](http://historicalsoundscapes.com/)
+[Opening the Geesebook](http://geesebook.asu.edu/)
+[IDEA: Isabella D'Este Archive](http://isabelladeste.web.unc.edu/)
+[The Experience of Worship](http://www.experienceofworship.org.uk/)
+
+## Encoding
+[Troubadour Melodies Database](http://troubadourmelodies.org/)
+**Tools**: [Music Encoding Initiative](http://music-encoding.org/) (Include example)
+
+[Prague Concert Life, 1850-1881](https://prague-concerts.info/en/event/1615)
+[The Josquin Research Project](http://josquin.stanford.edu/)
+[Linked Jazz](https://linkedjazz.org/network/)
+[music21](http://web.mit.edu/music21/)
+[Music Scholarship Online](https://muso.arts.gla.ac.uk/index.html)
+
+
+
+
+
 
 The `workshop-template-b` [repository](https://github.com/evanwill/workshop-template-b) is a skeleton project. 
 This [site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on gh-pages, and the content pages serve as examples.
