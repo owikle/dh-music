@@ -3,6 +3,10 @@ title: Projects
 nav: true
 ---
 
+Digital Scholarship/Digital Humanities projects take Digital Collections one step further by offering opportunities, tools, and methodologies for engaging with digital resources.
+
+{% include characteristics.html %}
+
 # Music DH Projects
 
 ## Categories: Encoding, Visualization
