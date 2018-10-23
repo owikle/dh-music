@@ -7,6 +7,20 @@ nav: true
 
 - [Programming Historian](http://programminghistorian.org/)
 
+- [Music Scholarship Online](https://muso.arts.gla.ac.uk/index.html)
+
+- [music21](http://web.mit.edu/music21/)
+
+
+
+
+
+
+
+
+
+
+
 Edit the lesson Markdown files to create content pages.
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

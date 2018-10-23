@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="old-tech.jpg" alt="intro image here" caption="Photo by Felipe Belluco on Unsplash" width="60%" %}
 
-A site with resources for studying sonic digital humanities research.
+A site with resources for sonic digital humanities research.
 
 {% include toc.html %}
 

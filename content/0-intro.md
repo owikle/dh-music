@@ -9,6 +9,10 @@ There is a [lack of consensus](http://dhdebates.gc.cuny.edu/debates/text/40) whe
 
 ***
 
+{% include figure.html img="tape-player.jpg" alt="tape player" width="75%" %}
+
+***
+
 ## Digital Humanities *is*:
 - **Data-driven**:
     - Involving data of some sort (though this data takes many forms)
@@ -25,6 +29,8 @@ There is a [lack of consensus](http://dhdebates.gc.cuny.edu/debates/text/40) whe
 
 ## DH Resources at UI:
 
+{% include figure.html img="cdil.png" alt="cdil" width="75%" %}
+
 **[Center for Digital Inquiry and Learning (CDIL)](https://cdil.lib.uidaho.edu/){:target='_blank'}**
 - A collaboration between CLASS and the U of I Library, the purpose of the CDIL is to advance digital scholarship opportunities at the University of Idaho.
 - Our team collaborates on a wide variety of digital research and teaching projects.
@@ -35,3 +41,6 @@ There is a [lack of consensus](http://dhdebates.gc.cuny.edu/debates/text/40) whe
 
 **Open Educational Resources** 
 - [Integrated Music Theory Textbook](https://intmus.github.io/inttheory18-19/) (sponsored by one of the Library's [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN))
+
+**[Library Workshops](https://www.lib.uidaho.edu/services/workshops/)**
+- Many DH-related workshops are held at the library throughout the semester. These workshops cover a variety of tools and methods that are relevant to digital scholarship.
