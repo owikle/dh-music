@@ -1,11 +1,27 @@
 ---
 title: Resources
-nav: true
+nav: false
 ---
 
 # Resources
 
+Please contact us at the [CDIL](https://cdil.lib.uidaho.edu/) with any questions or project ideas!
+
+## Learning New Tools
+
 - [Programming Historian](http://programminghistorian.org/)
+
+- [Software Carpentry](https://software-carpentry.org/)
+
+## GIS
+
+- [ArcGIS Story Maps](https://storymaps.arcgis.com/en/)
+
+## Building Websites
+
+- [GitHub](https://github.com)
+
+- [Jekyll](https://jekyllrb.com/) 
 
 - [Music Scholarship Online](https://muso.arts.gla.ac.uk/index.html)
 
