@@ -5,9 +5,9 @@ layout: default
 
 # Music, Sound, & the Digital Humanities
 
-{% include figure.html img="old-tech.jpg" alt="intro image here" caption="Photo by Felipe Belluco on Unsplash" width="60%" %}
+{% include figure.html img="old-tech.jpg" alt="intro image here" caption="Photo by Felipe Belluco at https://unsplash.com/@felipebelluco" width="60%" %}
 
-A site with resources for sonic digital humanities research.
+<p class="text-center">A site with resources for sonic digital humanities research.</p>
 
 {% include toc.html %}
 
