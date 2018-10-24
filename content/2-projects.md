@@ -24,7 +24,7 @@ Digital Scholarship/Digital Humanities projects build on Digital Collections wor
 - *Tools*: [Music Encoding Initiative](http://music-encoding.org/){:target='_blank'}
 {% include figure.html img="mei.jpg" alt="mei example" caption="Music Encoding Initiative" width="100%" %}
 
-**Analysis**
+**Networking & Analysis**
 - [The Josquin Research Project](http://josquin.stanford.edu/){:target='_blank'}
 - [Linked Jazz](https://linkedjazz.org/network/){:target='_blank'}
 
