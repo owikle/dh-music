@@ -29,7 +29,7 @@ Digital Scholarship/Digital Humanities projects build on Digital Collections wor
 - [Linked Jazz](https://linkedjazz.org/network/){:target='_blank'}
 
 **Mapping**
-- ??
+- [Religious Soundmap Project](http://sites.cal.msu.edu/soundmap3/){:target='_blank'}
 
 **Contextualizing Music**
 - [Prague Concert Life, 1850-1881](https://prague-concerts.info/en/event/1615){:target='_blank'}
