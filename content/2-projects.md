@@ -11,7 +11,7 @@ Digital Scholarship/Digital Humanities projects build on Digital Collections wor
 
 ***
 
-# Music- and Sound-Related DH Projects
+# Music- and Sound-Related Digital Scholarship Projects
 
 {% include figure.html img="digital-music.jpg" alt="headphones and music" width="75%" %}
 
