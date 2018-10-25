@@ -19,11 +19,11 @@ There is a [lack of consensus](https://whatisdigitalhumanities.com/){:target='_b
 
 ***
 
-## Digital Humanities *is*:
+## Digital Scholarship *is*:
 - **Data-driven**:
     - Involving data of some sort (though this data takes many forms)
 - **Diverse**:
-    - Accross institutions, DH operates in different ways
+    - Accross institutions, digital scholarship operates in different ways
 - **Collaborative**:
     - Research often involves a community that crosses disciplinary lines to exchange ideas and build projects
 
@@ -31,15 +31,15 @@ There is a [lack of consensus](https://whatisdigitalhumanities.com/){:target='_b
 
         - *The digital humanities today is about a scholarship (and a pedagogy) that is publicly visible in ways to which we are generally unaccustomed... a scholarship and pedagogy that are collaborative* - Matthew Kirschenbaum, ["What is Digital Humanities?"]( http://mkirschenbaum.wordpress.com/2011/01/22/what-is-digital-humanities/){:target='_blank'}, *ADE Bulletin* 150 (2010):1-7.
 
-## Digital Humanities is *not*:
-- A "replacement" of traditional humanities research methods
-    - Rather, DH works hand-in-hand to extend the possibilities of deep thinking and criticism that characterizes the humanities, and the creativity that embodies the arts
+## Digital Scholarship is *not*:
+- A "replacement" of traditional humanities/arts research methods
+    - Rather, digital scholarship works hand-in-hand to extend the possibilities of deep thinking and criticism that characterizes the humanities, and the creativity that embodies the arts
 
         - *The computer revolutionizes, not because it proposes an alternative to the basic hermeneutical procedure, but because it reimagines that procedure at new scales, with new speeds, and among new sets of conditions* - Stephen Ramsay, 31, *Reading Machines: Toward an Algorithmic Criticism*, 2011.
 
 ***
 
-## DH Resources at UI:
+## Digital Scholarship Resources at UI:
 
 {% include figure.html img="cdil.png" alt="cdil" width="75%" %}
 
