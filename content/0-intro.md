@@ -27,7 +27,7 @@ There is a [lack of consensus](https://whatisdigitalhumanities.com/){:target='_b
 - **Collaborative**:
     - Research often involves a community that crosses disciplinary lines to exchange ideas and build projects
 
-        - *Instead of trying to pigeonhold digital humanities by prescribing particular methods or theoretical approaches, we can instead focus on a community that comes together around values such as openness and collaboration* - Lisa Spiro, ["This is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13){:target='_blank'}, *Debates in the Digital Humanities*, 2012.
+        - *Instead of trying to pigeonhole digital humanities by prescribing particular methods or theoretical approaches, we can instead focus on a community that comes together around values such as openness and collaboration* - Lisa Spiro, ["This is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13){:target='_blank'}, *Debates in the Digital Humanities*, 2012.
 
         - *The digital humanities today is about a scholarship (and a pedagogy) that is publicly visible in ways to which we are generally unaccustomed... a scholarship and pedagogy that are collaborative* - Matthew Kirschenbaum, ["What is Digital Humanities?"]( http://mkirschenbaum.wordpress.com/2011/01/22/what-is-digital-humanities/){:target='_blank'}, *ADE Bulletin* 150 (2010):1-7.
 
@@ -47,12 +47,12 @@ There is a [lack of consensus](https://whatisdigitalhumanities.com/){:target='_b
 - A collaboration between CLASS and the U of I Library, the purpose of the CDIL is to advance digital scholarship opportunities at the University of Idaho.
 - Our team collaborates on a wide variety of digital research and teaching projects.
 
-**[Digital Scholarship Symposium & CDIL Fellowships](https://cdil.lib.uidaho.edu/#fellowships)**
+**[Digital Scholarship Symposium & CDIL Fellowships](https://cdil.lib.uidaho.edu/#fellowships){:target='_blank'}**
 - A week-long summer symposium exploring a wide variety of digital scholarship tools and methodologies.
 - The CDIL offers fellowships for faculty, grad students, and undergrads to attend and develop a digital project with CDIL librarians.
 
 **Open Educational Resources** 
-- [Integrated Music Theory Textbook](https://intmus.github.io/inttheory18-19/) (sponsored by one of the Library's [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN))
+- [Integrated Music Theory Textbook](https://intmus.github.io/inttheory18-19/){:target='_blank'} (sponsored by one of the Library's [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN))
 
-**[Library Workshops](https://www.lib.uidaho.edu/services/workshops/)**
+**[Library Workshops](https://www.lib.uidaho.edu/services/workshops/){:target='_blank'}**
 - Many DH-related workshops are held at the library throughout the semester. These workshops cover a variety of tools and methods that are relevant to digital scholarship.
